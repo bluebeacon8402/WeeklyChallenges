@@ -8,7 +8,7 @@ namespace ChallengesWithTestsMark8
     {
         public bool CharacterIsALetter(char c)
         {
-            if(c == 'c')
+            if(char.IsLetter(c))
             {
                 return true;
             }
@@ -93,6 +93,11 @@ namespace ChallengesWithTestsMark8
 
         public int SumEvens(int[] numbers)
         {
+            if (numbers == null)
+            {
+                return 0;
+            }
+            
             int evens = 0;
             
             foreach(int x in numbers)
