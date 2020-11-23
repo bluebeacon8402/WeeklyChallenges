@@ -65,6 +65,10 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/michaeldoyle/repos/markx/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/michaeldoyle/repos/markx/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.dll
 /Users/michaeldoyle/repos/markx/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.pdb
+C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
+C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
@@ -75,10 +79,6 @@ C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTes
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
-C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
-C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
-C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
-C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\Anthe\Desktop\Repos\weeklychallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
